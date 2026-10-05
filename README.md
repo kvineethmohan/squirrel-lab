@@ -4,6 +4,7 @@ Hi! In this repo is a slightly insecure Docker container, and an automated CICD 
 * Scan for vulns
 * Validate them against the SafeStack platform
 
+
 To get started, you have to perform the following:
 1. Fork this repo
 2. Enable actions
